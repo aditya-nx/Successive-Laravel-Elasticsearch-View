@@ -1,0 +1,1 @@
+# Successive-Laravel-Elasticsearch-View
