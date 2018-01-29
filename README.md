@@ -43,6 +43,7 @@ Note: Include jquery and jquery ui before including tabulator files.
 
   
 - ##### Include Elasticsearch view in your filename.blade.php inside content seaction
+
 ```sh
 @section('content')
 <div class="row">
