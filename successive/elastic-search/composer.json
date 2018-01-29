@@ -1,0 +1,22 @@
+{
+    "name": "Successive/Elastic-Search",
+    "description": "Pacakge for communication with elastic search.",
+    "keywords": ["laravel", "elasticsearch", "elastic-search", "elastic search"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "successive",
+            "email": "aditya.singh@successivesoftwares.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+	    "App\\": "app/"            
+        }
+    },
+    "require": {
+	"illuminate/support": "~5",
+        "elasticsearch/elasticsearch": "~5.0"
+    }
+
+}
