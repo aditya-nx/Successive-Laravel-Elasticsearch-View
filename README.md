@@ -53,3 +53,5 @@ Note: Include jquery and jquery ui before including tabulator files.
     </div>
 </div>
 ```
+
+##### Powered by [Successive Software](http://www.successivesoftwares.com/)
