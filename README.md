@@ -4,6 +4,7 @@ This package will facilitate the view to render the Elasticsearch documents alon
  - Sorting
  - Searching
  - Pagination
+ - Show/Hide columns
 
 # Requirements
  - PHP >= 5.6
