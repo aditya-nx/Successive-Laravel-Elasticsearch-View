@@ -38,8 +38,8 @@ Note: Include jquery and jquery ui before including tabulator files.
   "Successive\\\ElasticSearch\\\\": "vendor/successive/elastic-search/src/"
 
 - ######  Define Elasticsearch host and port in your .env file
-     ELASTICSEARCH_HOST=127.0.0.1
-     ELASTICSEARCH_PORT=9200
+     - ELASTICSEARCH_HOST=127.0.0.1
+     - ELASTICSEARCH_PORT=9200
 
   
 - ##### Include Elasticsearch view in your filename.blade.php inside content seaction
